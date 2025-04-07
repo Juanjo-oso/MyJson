@@ -1,0 +1,11 @@
+{
+    "c2array": true,
+    "size": [5, 1, 2],
+    "data": [
+      [["Que sencillo fue", "MegaMan"]],
+      [["Me esperaba mas de ti...", "MegaMan"]],
+      [["Hace siglos que nadie lograba llegar tan lejos.", "Jefe"]],
+      [["No esperaba que fueras tan fuerte...", "Jefe"]],
+      [["No subestimes a quien lucha por lo correcto.", "MegaMan"]]
+    ]
+  }
